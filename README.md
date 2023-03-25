@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/LOGI-LAP/music-video-streamer"><img src="https://img.shields.io/badge/VIDEO%20AND%20MUSIC IN ONE REPO-blueviolet?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/ArapSikenGenc/music-video-streamer"><img src="https://img.shields.io/badge/VIDEO%20AND%20MUSIC IN ONE REPO-blueviolet?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
@@ -58,7 +58,7 @@
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/LOGI-LAP/music-bot
+shikhar@MacBook~ $ git clone https://github.com/ArapSikenGenc/music-bot
 shikhar@MacBook~ $ cd music-bot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
@@ -96,7 +96,7 @@ shikhar@MacBook~ $ bash start
 </h3>
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/LOGI-LAP/music-bot
+shikhar@MacBook~ $ git clone https://github.com/ArapSikenGenc/music-bot
 shikhar@MacBook~ $ cd music-bot
 shikhar@MacBook~ $ pip3 install pyrogram TgCrypto
 shikhar@MacBook~ $ python3 gen_session.py
